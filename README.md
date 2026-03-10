@@ -65,3 +65,11 @@ https://github.com/Yaswanth-Donthagani
 ---
 
 ⭐ Explore my repositories to see my **data analytics projects, dashboards, and insights**.
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/yaswanth-donthagani/yaswanth-donthagani/output/snake.svg" alt="Snake animation" />
+
+###
