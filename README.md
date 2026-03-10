@@ -1,3 +1,5 @@
+<img src="https://readme-img.onrender.com/api/banner?username=Yaswanth-Donthagani&template=modern1&bg=dark&font=poppins" alt="Yaswanth-Donthagani's GitHub Stats" />
+
 # Hi, I'm Yaswanth 👋
 
 🎯 **Data Analyst** passionate about turning data into meaningful insights.
